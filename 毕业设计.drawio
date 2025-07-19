@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="第 1 页" id="3iGqJ2dECSTZh11q404p">
-    <mxGraphModel dx="748" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1833,7 +1833,7 @@
           <mxGeometry x="3123.28" y="2700" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WDFfPaYOIOz9_snM7BA4-10" value="有损/无损信道" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2933.9799999999996" y="2600" width="93.01" height="30" as="geometry" />
+          <mxGeometry x="2923.4999999999995" y="2570" width="93.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WDFfPaYOIOz9_snM7BA4-12" value="视觉编码器" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="3395" y="2365" width="100" height="50" as="geometry" />
