@@ -1893,7 +1893,7 @@
           <mxGeometry x="-590" y="2480" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3sp7IIgGb8gvHF_CwBkA-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="25" y="2490" width="60" height="30" as="geometry" />
+          <mxGeometry x="45" y="2500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3sp7IIgGb8gvHF_CwBkA-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;or&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-460" y="2530" width="60" height="30" as="geometry" />
