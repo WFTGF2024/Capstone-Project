@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="3iGqJ2dECSTZh11q404p">
-    <mxGraphModel dx="2130" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1917,10 +1917,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="stJyZ3sVdcUQRMHkeB7B-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;通信感知层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="3100" width="540" height="60" as="geometry" />
+          <mxGeometry x="900" y="3070" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stJyZ3sVdcUQRMHkeB7B-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;语义传输层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="3000" width="540" height="60" as="geometry" />
+          <mxGeometry x="900" y="2980" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stJyZ3sVdcUQRMHkeB7B-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;资源调度层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="2890" width="540" height="60" as="geometry" />
