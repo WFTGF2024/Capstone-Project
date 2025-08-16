@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="3iGqJ2dECSTZh11q404p">
-    <mxGraphModel dx="2282" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2083,6 +2083,9 @@
         </mxCell>
         <mxCell id="jGPWXp5i9uNMM4EXZRmy-8" value="curl -X POST &quot;http://127.0.0.1:8000/Qwen3-Embedding-4B&quot; \&#xa;  -H &quot;Content-Type: application/json&quot; \&#xa;  -d &#39;{&quot;texts&quot;: [&quot;Beijing is the capital of China.&quot;, &quot;Gravity is a force.&quot;]}&#39;" style="text;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4962" y="2840" width="610" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jGPWXp5i9uNMM4EXZRmy-9" value="curl &quot;http://120.79.25.184:7202/Qwen3-Embedding-4B/The%20capital%20of%20China%20is%20Beijing&quot;" style="text;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5180" y="2550" width="500" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
